@@ -1,1 +1,7 @@
 streamlit
+pandas 
+scikit-learn 
+sentence-transformers 
+pdfplumber 
+PyPDF2 
+python-docx
